@@ -1,1 +1,2 @@
-Hey .. HI . This will be my first commit
+Hey ! HI.. My name is Yash. 
+This will be my first commit
